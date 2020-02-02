@@ -28,6 +28,7 @@ A movimentação do carro foi feita com flexbox também, apenas alternando entre
 - [tachyons](http://tachyons.io/)
 - [storage-manager-js](https://github.com/g4rcez/storage-manager-js)
 
+**Alguns componentes e hooks fazem parte de uma biblioteca que comecei a desenvolver e ainda não joguei no NPM**
 
 ## Desafios Pessoais
 
