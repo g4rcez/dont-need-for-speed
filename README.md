@@ -2,7 +2,7 @@
 
 ## Demonstração
 
-Tá com preguiça de instalar local? Tente a versão online. Agora se quiser instalar local:
+Tá com preguiça de instalar local? [Tente a versão online](https://mystifying-saha-39d7f5.netlify.com/). Agora se quiser instalar local:
 ```bash
 git clone URL
 cd URL
@@ -35,3 +35,4 @@ A movimentação do carro foi feita com flexbox também, apenas alternando entre
 - [ x ] Configurar cor do carro - A intenção era fazer ajustes com `CSS Filter`
 - [ x ] Criar um controlador de áudio - Nunca havia trabalhado com a tag `<audio />` e queria ter uma oportunidade para aplicar
 - [ x ] Hook para controle de touch em elementos HTML - Fazer um `gesture` parecido com a experiência de desenvolvimento parecida com a de React Native
+- [ x ] Fazer como PWA
